@@ -6,4 +6,5 @@ python-docx>=0.8.11
 openpyxl>=3.1
 XlsxWriter>=3.1
 matplotlib>=3.7
+plotly.express
 seaborn>=0.12
